@@ -3,11 +3,6 @@ pub   rsa4096 2022-04-20 [SC]
 uid           [ultimate] Jefferson luiz da rocha carneiro (Chave slackjeff) <slackjeff@riseup.net>
 sub   rsa4096 2022-04-20 [E]
 
-pub   rsa4096 2022-01-27 [SC]
-      7D0F12DA018CC908ADDE96FCB53269E8F045A720
-uid           [ unknown] Jefferson Carneiro (Minha chavfe) <slackjeff@riseup.net>
-sub   rsa4096 2022-01-27 [E]
-
 Key fingerprint: B78F3DDE488C4CA4C18AFB9A45D1705DB83534D3
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
